@@ -1,0 +1,18 @@
+body
+{
+	background-color: green; 
+	font-family: Verdana;
+	font-size: 20px;
+	color: white;
+}
+
+h1
+{
+	font-size: 48px;
+	color: red !important;
+}
+h2
+{
+	color:red; 
+	
+}
